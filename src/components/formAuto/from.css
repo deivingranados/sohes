@@ -1,0 +1,14 @@
+.content_input {
+  margin-bottom: 10px;
+  font-family: "serif";
+  font-size: 16px;
+}
+
+#button_send {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 20%;
+  background-color: white;
+  color: rgb(29, 197, 29);
+  border-radius: 30px;
+}

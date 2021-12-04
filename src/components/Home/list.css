@@ -1,0 +1,45 @@
+.button_crear {
+  width: 20%;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  color: #009900;
+  border: solid 1px #009900;
+  background-color: white;
+  margin-bottom: 30px;
+  cursor: pointer;
+  margin-left: 52px;
+  font-family: "serif";
+  font-size: 16px;
+}
+.barInfo {
+  width: 90%;
+  font-size: 18px;
+  padding: 8px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 30px;
+  background-color: #009900;
+  font-family: "serif";
+  border-radius: 4px;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.content_details {
+  border: solid 1px rgb(138, 131, 131);
+  color: black;
+}
+.title_details {
+  max-width: 500px;
+  color: #009900;
+  font-size: 17px;
+  margin-bottom: 5px;
+}
+.text {
+  border: solid 1px red;
+}
+
+.icon {
+  color: green;
+  font-size: 35px;
+}
